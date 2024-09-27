@@ -1,0 +1,256 @@
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 10, Q: 0
+Average time average customers: 0.86, Standard deviation: 0.59
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 807.67, Standard deviation: 30.53
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 50, Q: 0
+Average time average customers: 2.28, Standard deviation: 1.51
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 795.44, Standard deviation: 42.07
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 100, Q: 0
+Average time average customers: 2.43, Standard deviation: 1.46
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 795.38, Standard deviation: 32.46
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 1000, Q: 0
+Average time average customers: 3.39, Standard deviation: 0.89
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 804.35, Standard deviation: 24.78
+Average customer using stationary distribution: 1.5
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 10, Q: 0
+Average time average customers: 0.65, Standard deviation: 0.54
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 679.66, Standard deviation: 19.66
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 50, Q: 0
+Average time average customers: 1.52, Standard deviation: 0.92
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 673.57, Standard deviation: 36.56
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 100, Q: 0
+Average time average customers: 1.61, Standard deviation: 0.58
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 656.47, Standard deviation: 27.70
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 1000, Q: 0
+Average time average customers: 2.25, Standard deviation: 0.36
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 637.88, Standard deviation: 21.07
+Average customer using stationary distribution: 1.3333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 10, Q: 0
+Average time average customers: 0.68, Standard deviation: 0.40
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 338.51, Standard deviation: 20.29
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 50, Q: 0
+Average time average customers: 0.76, Standard deviation: 0.45
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 335.61, Standard deviation: 18.51
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 100, Q: 0
+Average time average customers: 0.72, Standard deviation: 0.21
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 344.09, Standard deviation: 15.85
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 1000, Q: 0
+Average time average customers: 0.85, Standard deviation: 0.09
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 353.48, Standard deviation: 23.76
+Average customer using stationary distribution: 0.8333333333333333
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 10, Q: 0
+Average time average customers: 0.43, Standard deviation: 0.27
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 252.98, Standard deviation: 7.89
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 50, Q: 0
+Average time average customers: 0.58, Standard deviation: 0.30
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 252.71, Standard deviation: 7.87
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 100, Q: 0
+Average time average customers: 0.59, Standard deviation: 0.23
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 254.87, Standard deviation: 11.79
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 1000, Q: 0
+Average time average customers: 0.62, Standard deviation: 0.06
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 1, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 247.18, Standard deviation: 9.50
+Average customer using stationary distribution: 0.6666666666666666
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 10, Q: 0
+Average time average customers: 16.80, Standard deviation: 4.02
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4812.58, Standard deviation: 60.10
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 50, Q: 0
+Average time average customers: 95.90, Standard deviation: 9.16
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4803.44, Standard deviation: 53.20
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 100, Q: 0
+Average time average customers: 185.95, Standard deviation: 12.20
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4788.84, Standard deviation: 55.80
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 1000, Q: 0
+Average time average customers: 1904.09, Standard deviation: 28.09
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4779.89, Standard deviation: 45.93
+Average customer using stationary distribution: -4.166666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 10, Q: 0
+Average time average customers: 13.73, Standard deviation: 2.97
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 4694.42, Standard deviation: 65.87
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 50, Q: 0
+Average time average customers: 87.44, Standard deviation: 13.26
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 4681.79, Standard deviation: 32.75
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 100, Q: 0
+Average time average customers: 189.10, Standard deviation: 10.85
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 4662.97, Standard deviation: 44.41
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 1000, Q: 0
+Average time average customers: 1829.84, Standard deviation: 41.76
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 2, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 4653.37, Standard deviation: 61.51
+Average customer using stationary distribution: -6.666666666666667
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 10, Q: 0
+Average time average customers: 14.96, Standard deviation: 3.13
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4274.47, Standard deviation: 55.13
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 50, Q: 0
+Average time average customers: 79.80, Standard deviation: 8.77
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4319.09, Standard deviation: 62.08
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 100, Q: 0
+Average time average customers: 170.14, Standard deviation: 16.68
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4284.30, Standard deviation: 45.91
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 1000, Q: 0
+Average time average customers: 1654.70, Standard deviation: 40.20
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 3, T: 2000, Q: 1000
+Average time average customers: 4310.61, Standard deviation: 34.16
+Average customer using stationary distribution: -7.5
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 10, Q: 0
+Average time average customers: 14.00, Standard deviation: 4.94
+Average customer using stationary distribution: -10.0
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 4040.38, Standard deviation: 61.37
+Average customer using stationary distribution: -10.0
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 50, Q: 0
+Average time average customers: 77.61, Standard deviation: 8.21
+Average customer using stationary distribution: -10.0
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 3979.00, Standard deviation: 77.39
+Average customer using stationary distribution: -10.0
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 100, Q: 0
+Average time average customers: 152.18, Standard deviation: 8.18
+Average customer using stationary distribution: -10.0
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 3999.33, Standard deviation: 55.65
+Average customer using stationary distribution: -10.0
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 1000, Q: 0
+Average time average customers: 1486.47, Standard deviation: 44.27
+Average customer using stationary distribution: -10.0
+############## RESULTS ##############
+Lambda: 5, Mu1: 4, Mu2: 4, T: 2000, Q: 1000
+Average time average customers: 3995.22, Standard deviation: 65.46
+Average customer using stationary distribution: -10.0
